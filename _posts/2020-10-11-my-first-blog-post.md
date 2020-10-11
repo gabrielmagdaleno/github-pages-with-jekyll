@@ -1,1 +1,4 @@
-El blog que estoy creando
+---
+title: "El Blog de Gabriel Magdaleno"
+date: 2020-10-11
+---
